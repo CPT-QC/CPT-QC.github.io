@@ -2,5 +2,5 @@
 
 <figure>
 <img src="LogoCPT.jpg" alt="Oiseau pas beau" loading="lazy">
-  <figcaption>This is my image</figcaption>
+  <figcaption>Oiseau pas beau</figcaption>
 </figure>
