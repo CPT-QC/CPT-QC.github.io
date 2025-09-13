@@ -3,6 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Centre de pataphysique théorique du Québec
 description: Une page pour faire rayonner la pataphysique au Québec et partout!
-
-
-[LogoCPT.pdf](https://github.com/user-attachments/files/22314864/LogoCPT.pdf)
+imagesurl: "/LogoCPT.pdf/"
