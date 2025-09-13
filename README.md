@@ -1,2 +1,1 @@
-# CPT-QC.github.io
-Centre de Pataphysique Théorique du Québec
+# Centre de Pataphysique Théorique du Québec
